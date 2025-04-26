@@ -1,0 +1,1 @@
+This repository contains Python code and a report for analyzing optical beam propagation in inter-satellite communication. It covers beam characterization, channel modeling, power analysis, and BER vs. SNR simulation for OOK modulation.
